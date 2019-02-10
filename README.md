@@ -1,6 +1,6 @@
 <h2><b>FLOOD ALERT SYSTEM</b></h2>
 <br>
-<p><i>This project is based on Arduino platform which is primarily based on C language</i></p>
+<p><i><b>This project is based on Arduino platform which is primarily based on C language</b></i></p>
 <p>In this project, I have used a Radio Frequency Module operating at 433 Mhz for transmitting the water level of river from transmitter circuit.
 The water level is measured using ultrasonic sensor which sends in sound waves and measures the level of water from the surface by calculating the time
 in which sound waves returned. The transmitter circuit is placed near the river for measuring and transmitting the water level.</p>
