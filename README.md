@@ -10,5 +10,5 @@ near the villages so as to alert them of the flood</p>
 <hr>
 <h2><b>Collaborators</b></h2>
 <ul>
-  <li>Shashank Dahal</li>
+  <li><a href="https://github.com/shashankdahal">Shashank Dahal</a></li>
 </ul>
