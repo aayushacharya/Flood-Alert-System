@@ -9,6 +9,6 @@ near the villages so as to alert them of the flood</p>
 
 <hr>
 <h2><b>Collaborators</b></h2>
-<ol>
+<ul>
   <li>Shashank Dahal</li>
-</ol>
+</ul>
